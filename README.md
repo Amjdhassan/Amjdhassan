@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @Amjdhassan
-- 👀 I’m interested in odoo
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @Amjdhassan - Software Developer
+- 👀 I’m interested in Odoo, a Django framework
+- 🌱 I’m currently trying to make something new ...
+- 💞️ I’m looking to collaborate on freelance projects
 - 📫 How to reach me ...
+                                @Amjdhassan
+                                Amjd_hassan@yahoo.com
+                                +249-923260016
 
 <!---
 Amjdhassan/Amjdhassan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
